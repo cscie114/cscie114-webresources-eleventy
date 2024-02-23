@@ -1,0 +1,484 @@
+[
+  {
+    "url": "https://thefutureofjamstack.org/",
+    "title": "The Future of Jamstack",
+    "description": "Discover #TheFutureOfJamstack: A collective journey back to the core principles of simplicity, security, and scalability. Join the movement for a transparent, community-driven vision. Share stories, participate in polls, and shape the Jamstack Manifesto. Be part of the change!",
+    "localImage": "images/futureofjamstack.svg" 
+  }, {
+    "url": "https://www.twitch.tv/videos/2068573930?t=00h38m00s",
+    "title": "The Future of Jamstack - What's next for Jamstack? Panel Discussion",
+    "description": "Dive deep into the heart of Jamstack with our panel discussion featuring some of the most influential voices in the industry: Salma Alam-Naylor, Cassidy Williams, Bryan Robinson, and Zach Leatherman. Recorded live on February 20th, 2024, this session explores the bounds of the term, challenges, and opportunities shaping the future of web development through Jamstack.",
+    "localImage": "images/whatsnextforjamstack.png" 
+  },
+  {
+    "url": "https://snipcart.com/blog/jamstack",
+    "title": "The Jamstack in 2022: Why (and How) to Get Started",
+    "description": " Jamstack is an architecture in which a website can be delivered statically but provides dynamic content & interactive experience via JS.",
+    "image": "https://www.datocms-assets.com/48401/1648745335-ssg-og.png?auto=format&fit=max&w=1200",
+    "localImage": "images/8affe8c4a77e3753161d26adff6afd4f0770adb8.png"
+  },
+  {
+    "url": "https://jamstack.org/",
+    "title": "For fast and secure sites | Jamstack",
+    "description": "What is the Jamstack? Why use the Jamstack? How do I get started? Learn what the Jamstack is all about and why it's the best approach for building faster, more secure websites.",
+    "image": "https://www.jamstack.org/img/og/default-og-image.png",
+    "localImage": "images/8549cae79179ab2d1a5bda99cb71f77b8798143f.png"
+  },
+  {
+    "url": "https://www.spicyweb.dev/farewell-jamstack/",
+    "title": "My Journey Away from the JAMstack | The Spicy Web",
+    "description": "The name is all but dead, nerfed by the company who invented it. Here's why Netlify was ahead of its time and where everything went wrong.",
+    "image": "https://www.spicyweb.dev/images/spicy-web-avatar-light.png",
+    "localImage": "images/4eda9ad07104f3b7b76bb5a1a62a8329b8a539f5.png"
+  },
+  {
+    "url": "https://jamstack.org/conf/",
+    "title": "Jamstack Conf",
+    "description": "Join 20,000+ developers and web enthusiasts for two days of keynotes, interactive sessions, live Q&A and 1:1 networking.",
+    "image": "https://jamstackconf.com/conf/og-images/jamstack-block-party-og.png",
+    "localImage": "images/1d1c59d5f231b82ccec6dacd9be875278cc1ae32.png"
+  },
+  {
+    "url": "https://hasura.io/blog/best-practices-jamstack-projects-production-scale/",
+    "title": "Best Practices for JAMStack Projects in Production at Scale",
+    "description": "Best practices for using JAMStack in production & at scale: the arch uses static first to perform dynamically on the client to cater to complex requirements",
+    "image": "https://hasura.io/blog/content/images/2021/03/graphql_jamstack-1.png",
+    "localImage": "images/e65278a2bcaee655ef07691fde214fef78abb5d6.png"
+  },
+  {
+    "url": "https://remotesynthesis.com/blog/goodbye-jamstack/",
+    "title": "Remote Synthesis | Is Jamstack Officially Finished?",
+    "description": "Do recent changes mean the end of the term Jamstack? Unfortunately, it looks like a yes.",
+    "image": "/assets/logo.png",
+    "localImage": "images/remotesynthesis.png"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/apn/the-6-pillars-of-the-aws-well-architected-framework/",
+    "title": "The 6 Pillars of the AWS Well-Architected Framework | AWS Partner Network (APN) Blog",
+    "image": "https://d2908q01vomqb2.cloudfront.net/77de68daecd823babbb58edb1c8e14d7106e83bb/2018/01/04/DevOps.jpg",
+    "localImage": "images/a974acacc6573d4b0e93416c0a795082bec7ea73.jpg",
+    "description":"Incorporating these pillars into your architecture helps produce stable and efficient systems. This allows you to focus on the other aspects of design, such as functional requirements. The pillars are: Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, and Sustainability."
+  },
+  {
+    "url": "https://www.esparkinfo.com/blog/pros-and-cons-of-jamstack.html",
+    "title": "Pros and Cons of JAMSTACK For The Year 2024",
+    "description": "JAMstack is an approach to web development that allows building static websites. This article aims to detail some of the unbiased pros and cons of jamstack.",
+    "image": "https://www.esparkinfo.com/wp-content/uploads/2023/08/PROS-AND-CONS-OF-JAMSTACK-IN-2023.png",
+    "localImage": "images/ba036698192de184bb14d7c759dcf4b2aa40a815.png"
+  },
+  {
+    "url": "https://dev.to/remotesynth/what-is-jamstack-in-2024-3kc6",
+    "title": "What is Jamstack in 2024? - DEV Community",
+    "description": "All good things must come to an end and so, most likely, must my annual Jamstack update. But what have we lost in the process?. Tagged with webdev, jamstack, javascript.",
+    "image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frtz1y7p3cdq4oke4vuht.png",
+    "localImage": "images/fb29dfd9e2a20ac3e7830a178b81b734603c5661.jpg"
+  },
+  {
+    "url": "https://jamstack.wtf/",
+    "title": "WTF is Jamstack?",
+    "description": "Jamstack has revolutionized the way we build for the web by providing a simpler developer experience, better performance, lower cost, and greater scalability.",
+    "image": "https://jamstack.wtf/jamstack-wtf-meta.png/",
+    "localImage": "images/a85cf070c76f4f0e693a06111be47b2b8a9a53c3.png"
+  },
+  {
+    "url": "https://collider.com/fantastic-four-movie-remake-video-superpowers/",
+    "title": "New Fantastic Four Movie Footage Shows Heroes' Superpowers",
+    "description": "20th Century Fox has released new Fantastic Four movie footage; the film stars Miles Teller, Kate Mara, Michael B. Jordan, and Jamie Bell.",
+    "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2015/01/fantastic-four-trailer-human-torch-slice.jpg",
+    "localImage": "images/351d234f8b23ae239d0732622aa0675c814c1b5e.jpg"
+  },
+  {
+    "url": "https://jamstack.wtf/#best-practices",
+    "title": "WTF is Jamstack?",
+    "description": "Jamstack has revolutionized the way we build for the web by providing a simpler developer experience, better performance, lower cost, and greater scalability.",
+    "image": "https://jamstack.wtf/jamstack-wtf-meta.png/",
+    "localImage": "images/a85cf070c76f4f0e693a06111be47b2b8a9a53c3.png"
+  },
+  {
+    "url": "https://umbraco.com/knowledge-base/jamstack/",
+    "title": "What is Jamstack? JavaScript, APIs, and Markup (JAM)",
+    "description": "What does Jamstack mean and how do you use it? Get to know the Jamstack architecture and how it differs from traditional website development",
+    "image": "https://umbraco.com/media/ziikdjap/umbraco_social_og.png?crop=0.0010321753986332466,0.069063888998924364,0,0.0015260460386189473&cropmode=percentage&width=1200&height=628&rnd=132859531448430000",
+    "localImage": "images/52cdf31c0d659472fc3fa3784fe859791326a47e.png"
+  },
+  {
+    "url": "https://jamstack.org/generators/",
+    "title": "Static Site Generators - Top Open Source SSGs | Jamstack",
+    "description": "Check out this showcase of some of the best, open source static site generators. This is community-drive so be sure to submit your favorite today!",
+    "image": "https://www.jamstack.org/img/og/default-og-image.png",
+    "localImage": "images/8549cae79179ab2d1a5bda99cb71f77b8798143f.png"
+  },
+  {
+    "url": "https://11ty.rocks/",
+    "title": "11ty Rocks!",
+    "description": "A collection of Eleventy (11ty) starters, projects, plugins, and resources created by Stephanie Eckles (@5t3ph).",
+    "image": "https://11ty.rocks/img/previews/home.png",
+    "localImage": "images/a49817957071ecc180567347bb0de104d01db038.png"
+  },
+  {
+    "url": "https://almanac.httparchive.org/en/2022/jamstack#introduction",
+    "title": "Jamstack | 2022 | The Web Almanac by HTTP Archive",
+    "description": "Jamstack chapter of the 2022 Web Almanac covers quantifying Jamstack sites, the growth of Jamstack, Jamstack-y frameworks and hosting.",
+    "image": "https://almanac.httparchive.org/static/images/2020/jamstack/hero_lg.jpg",
+    "localImage": "images/72913851e3547b40a15c9ea55bee679e9436c5ba.jpg"
+  },
+  {
+    "url": "https://cacarer.com/ci-cd-continuous-integration-continuous-delivery-and-continuous-deployment/",
+    "title": "CI/CD – Continuous Integration, Continuous Delivery, and Continuous Deployment",
+    "image": "https://cacarer.com/wp-content/uploads/2021/09/ci-cd.jpg",
+    "localImage": "images/e9b7aafb76f9f150a8c6c60ce4692f1f13e18685.jpg"
+  },
+  {
+    "url": "https://code.visualstudio.com/docs/editor/command-line",
+    "title": "The Visual Studio Code command-line interface",
+    "description": "Visual Studio Code command-line interface (switches).",
+    "image": "https://code.visualstudio.com/opengraphimg/opengraph-docs.png",
+    "localImage": "images/a3a64accc7f7826fb82730b81792c227b8e445a7.png"
+  },
+
+  {
+    "url": "https://freebiesupply.com/logos/netlify-logo/",
+    "title": "Netlify Logo PNG Transparent & SVG Vector - Freebie Supply",
+    "description": "The Netlify logo in vector format(svg) and transparent PNG. Available for download.",
+    "image": "https://cdn.freebiesupply.com/logos/thumbs/2x/netlify-logo.png",
+    "localImage": "images/a7a2eac11d522a20986bac79944506961dc5678f.png"
+  },
+  {
+    "url": "https://jamstack.org/",
+    "title": "For fast and secure sites | Jamstack",
+    "description": "What is the Jamstack? Why use the Jamstack? How do I get started? Learn what the Jamstack is all about and why it's the best approach for building faster, more secure websites.",
+    "image": "https://www.jamstack.org/img/og/default-og-image.png",
+    "localImage": "images/8549cae79179ab2d1a5bda99cb71f77b8798143f.png"
+  },
+  {
+    "url": "https://jamstack.org/generators/",
+    "title": "Static Site Generators - Top Open Source SSGs | Jamstack",
+    "description": "Check out this showcase of some of the best, open source static site generators. This is community-drive so be sure to submit your favorite today!",
+    "image": "https://www.jamstack.org/img/og/default-og-image.png",
+    "localImage": "images/8549cae79179ab2d1a5bda99cb71f77b8798143f.png"
+  },
+  {
+    "url": "https://liquidjs.com/index.html",
+    "title": "LiquidJS",
+    "description": "LiquidJS is a simple, expressive and safe Shopify / Github Pages compatible template engine in pure JavaScript.",
+    "image": "https://img.shields.io/github/stars/harttle/liquidjs?style=flat-square",
+    "localImage": "images/890e4b66ec4541854799cf85f66b1453514c3200.png"
+  },
+  {
+    "url": "https://marketplace.visualstudio.com/search?term=liquid&target=VSCode&category=All%20categories&sortBy=Relevance",
+    "title": "Search results - liquid | Visual Studio Code , Visual Studio Marketplace",
+    "description": "VS Code extensions for Liquid",
+    "localImage":"images/vscodemarketplace.png"
+  },
+  {
+    "url": "https://snipcart.com/blog/jamstack",
+    "title": "The Jamstack in 2022: Why (and How) to Get Started",
+    "description": " Jamstack is an architecture in which a website can be delivered statically but provides dynamic content & interactive experience via JS.",
+    "image": "https://www.datocms-assets.com/48401/1648745335-ssg-og.png?auto=format&fit=max&w=1200",
+    "localImage": "images/8affe8c4a77e3753161d26adff6afd4f0770adb8.png"
+  },
+  {
+    "url": "https://www.11ty.dev/",
+    "title": "Eleventy, a simpler static site generator",
+    "description": "Eleventy, a simpler static site generator",
+    "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.11ty.dev%2F/opengraph/_cachebust/",
+    "localImage": "images/e8e3cff024a2fb079fe29a645dd826c971bf9164.jpg"
+  },
+  {
+    "url": "https://www.11ty.dev/docs/",
+    "title": "Eleventy - Docs",
+    "description": "Overview — Eleventy",
+    "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.11ty.dev%2Fdocs%2F/opengraph/_cachebust/",
+    "localImage": "images/ce0e531da614a19765650f2b30ba26a64ce5c26f.jpg"
+  },
+  {
+    "url": "https://www.11ty.dev/docs/collections/",
+    "title": "Collections — Eleventy",
+    "description": "While pagination allows you to iterate over a data set to create multiple templates, a collection allows you to group content in interesting ways. A piece of content can be a part of multiple collections, if you assign the same string value to the tags key in the front matter.",
+    "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.11ty.dev%2Fdocs%2Fcollections%2F/opengraph/_cachebust/",
+    "localImage": "images/71d6fe70f00eb2cc96f27fc0269d918eb0c74684.jpg"
+  },
+  {
+    "url": "https://www.11ty.dev/docs/config/",
+    "title": "Configuration — Eleventy",
+    "description": "Configuration — Eleventy.  Configure your 11ty site with eleventy.config.js.  In your config, you can also add Plugins, Filters, Shortcodes, Custom Tags, JavaScript Functions, custom Collections, and use Advanced Collection Filtering and Sorting.",
+    "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.11ty.dev%2Fdocs%2Fconfig%2F/opengraph/_cachebust/",
+    "localImage": "images/c1e111a7609d099190845388021bece7422eb945.jpg"
+  },
+  {
+    "url": "https://www.11ty.dev/docs/languages/",
+    "title": "Template Languages — Eleventy",
+    "description": "Template Languages — Eleventy:  HTML *.html, Markdown *.md, WebC *.webc, JavaScript *.11ty.js, Liquid *.liquid, Nunjucks *.njk, Handlebars *.hbs, Mustache *.mustache, EJS *.ejs Haml, *.haml Pug *.pug, Custom *.*",
+    "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.11ty.dev%2Fdocs%2Flanguages%2F/opengraph/_cachebust/",
+    "localImage": "images/a1d69178d753c78c1ac54f6c1579c0c6cb5fa05a.jpg"
+  },
+  {
+    "url": "https://www.11ty.dev/docs/layouts/",
+    "title": "Layouts — Eleventy",
+    "description": "Layouts — Eleventy.  Eleventy Layouts are special templates that can be used to wrap other content. To denote that a piece of content should be wrapped in a template, use the layout key in your front matter.",
+    "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.11ty.dev%2Fdocs%2Flayouts%2F/opengraph/_cachebust/",
+    "localImage": "images/069c9f90d5a2d3cc8ef8201d871d74a5ccf93c0f.jpg"
+  },
+  {
+    "url": "https://www.flaticon.com/free-icons/github",
+    "title": "Github Icons & Symbols",
+    "description": "178 github icons. Vector icons in SVG, PSD, PNG, EPS and ICON FONT",
+    "image": "https://media.flaticon.com/share/flaticon-generic.jpg",
+    "localImage": "images/e7c5283023b2ab09246adefac19400a16ffbf5ab.jpg"
+  },
+  {
+    "url": "https://nodejs.org/en/download/",
+    "title": "Node.js — Download",
+    "description": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+    "image": "https://nodejs.org/static/images/logo-hexagon-card.png",
+    "localImage": "images/e9eb045e816aa37170ff97463c77a703a4ba5bfc.png"
+  },
+  {
+    "url": "https://www.npmjs.com/",
+    "title": "npm | Home",
+    "image": "https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+    "localImage": "images/ff98e89bc12f4336344bcb82ca2f0b80b9032071.png"
+  },
+  {
+    "url": "https://semver.org/",
+    "title": "Semantic Versioning 2.0.0 | Semantic Versioning",
+    "description": "Semantic Versioning spec and website.  For MAJOR.MINOR.PATCH version, increment the: MAJOR version for incompatible API changes; MINOR version for backward compatible features changes; PATCH version for backward compatible bug fixes",
+    "localImage": "images/semverorg.png"
+  },
+  {
+    "url": "https://www.npmjs.com/package/log-util",
+    "title": "log-util - npm",
+    "description": "node log utility. Latest version: 2.3.0, last published: 5 years ago. Start using log-util in your project by running `npm i log-util`. There are 28 other projects in the npm registry using log-util.",
+    "image": "https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+    "localImage": "images/ff98e89bc12f4336344bcb82ca2f0b80b9032071.png"
+  },
+  {
+    "url": "https://javascript.info/modules-intro",
+    "title": "Modules, introduction",
+    "image": "https://javascript.info/img/site_preview_en_1200x630.png",
+    "localImage": "images/e7bfc5f5da75965b87a086c69c82504bfd76bb9e.png"
+  },
+  {
+    "url": "https://javascript.info/",
+    "title": "The Modern JavaScript Tutorial",
+    "description": "Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.",
+    "image": "https://javascript.info/img/site_preview_en_1200x630.png",
+    "localImage": "images/e7bfc5f5da75965b87a086c69c82504bfd76bb9e.png"
+  },
+  {
+    "url": "http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/",
+    "title": "NPM & left-pad: Have We Forgotten How To Program?",
+    "description": "Intro Okay developers, time to have a serious talk. As you are probably already aware, this week React, Babel, and a bunch of other high-profile packages on NPM broke. The reason they broke is rather astounding...",
+    "image": "https://www.davidhaney.io/img/me.jpg",
+    "localImage": "images/900bf9275189f7c271c3693f1b1909ddef2c67b1.jpg"
+  },
+  {
+    "url": "https://docs.github.com/en/code-security/security-advisories/global-security-advisories/browsing-security-advisories-in-the-github-advisory-database",
+    "title": "Browsing security advisories in the GitHub Advisory Database - GitHub Docs",
+    "description": "You can browse the GitHub Advisory Database to find CVEs and GitHub-originated advisories affecting the open source world.",
+    "image": "https://github.githubassets.com/images/modules/open_graph/github-logo.png",
+    "localImage": "images/f9a35fd0b7f90166c57b04d5f4bfa5b40eab313a.png"
+  },
+  {
+    "url": "https://www.freecodecamp.org/news/javascript-promise-tutorial-how-to-resolve-or-reject-promises-in-js/",
+    "title": "JavaScript Promise Tutorial – How to Resolve or Reject Promises in JS",
+    "description": "Promises are important building blocks for asynchronous operations in JavaScript. You may think that promises are not so easy to understand, learn, and work with. And trust me, you are not alone!  Promises are challenging for many web developers, even after spending years working with them. In this article,",
+    "image": "https://www.freecodecamp.org/news/content/images/2020/11/cover-1.png",
+    "localImage": "images/6dd22fb7c49668d0be73fa0554f36cb0f7be36c4.png"
+  },
+  {
+    "url": "https://javascript.info/async-await",
+    "title": "Async/await",
+    "description": "There's a special syntax to work with promises in a more comfortable fashion, called “async/await”. It's surprisingly easy to understand and use.",
+    "image": "https://javascript.info/img/site_preview_en_1200x630.png",
+    "localImage": "images/e7bfc5f5da75965b87a086c69c82504bfd76bb9e.png"
+  },
+  {
+    "url": "https://javascript.info/promise-basics",
+    "title": "Promise",
+    "description":"A promise is a special JavaScript object that links the \"producing code\" and the \"consuming code\" together. The \"producing code\" takes whatever time it needs to produce the promised result, and the \"promise\" makes that result available to all of the subscribed code when it's ready.",
+    "image": "https://javascript.info/img/site_preview_en_1200x630.png",
+    "localImage": "images/e7bfc5f5da75965b87a086c69c82504bfd76bb9e.png"
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams/URLSearchParams",
+    "title": "URLSearchParams: URLSearchParams() constructor - Web APIs | MDN",
+    "description": "The URLSearchParams() constructor creates and returns a\n  new URLSearchParams object.",
+    "image": "https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png",
+    "localImage": "images/7b96b904f10841e580d43a24b3872bc100d0b61f.png"
+  },
+  {
+    "url": "https://www.11ty.dev/docs/collections/",
+    "title": "Collections — Eleventy",
+    "description": "Collections — Eleventy.  While pagination allows you to iterate over a data set to create multiple templates, a collection allows you to group content in interesting ways. A piece of content can be a part of multiple collections, if you assign the same string value to the tags key in the front matter.",
+    "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.11ty.dev%2Fdocs%2Fcollections%2F/opengraph/_cachebust/",
+    "localImage": "images/71d6fe70f00eb2cc96f27fc0269d918eb0c74684.jpg"
+  },
+  {
+    "url": "https://app.swaggerhub.com/apis/NobelMedia/NobelMasterData/2.1",
+    "title": "Nobel Prize Data API documentation via SwaggerHub",
+    "description": "Information about the Nobel Prizes and the Nobel Prize Laureates.",
+    "localImage": "images/thenobelprize.webp"
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams",
+    "title": "URLSearchParams - Web APIs | MDN",
+    "description": "The URLSearchParams interface defines utility methods to work with the query string of a URL.",
+    "image": "https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png",
+    "localImage": "images/7b96b904f10841e580d43a24b3872bc100d0b61f.png"
+  },
+  {
+    "url": "https://www.11ty.dev/docs/pagination/",
+    "title": "Pagination — Eleventy",
+    "description": "Pagination — Eleventy.  Pagination allows you to iterate over a data set and create multiple files from a single template. The input data can be in the form of an array or object defined in your frontmatter or in global data, or you can paginate a collection to make an easily digestible list of your posts.",
+    "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.11ty.dev%2Fdocs%2Fpagination%2F/opengraph/_cachebust/",
+    "localImage": "images/5fc0ab7c1ca2e9e479f8807c3613669bfad85ac4.jpg"
+  },
+  {
+    "url": "https://liquidjs.com/tags/overview.html",
+    "title": "Tags | LiquidJS",
+    "description": "Description and demo for each Liquid tag",
+    "localImage": "images/890e4b66ec4541854799cf85f66b1453514c3200.png"
+  },
+  {
+    "url": "https://liquidjs.com/tags/render.html",
+    "title": "Render | LiquidJS",
+    "description": "LiquidJS is a simple, expressive and safe Shopify / Github Pages compatible template engine in pure JavaScript.",
+    "localImage": "images/890e4b66ec4541854799cf85f66b1453514c3200.png"
+  },
+  {
+    "url": "https://www.11ty.dev/docs/shortcodes/",
+    "title": "Template Shortcodes — Eleventy",
+    "description": "Template Shortcodes — Eleventy",
+    "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.11ty.dev%2Fdocs%2Fshortcodes%2F/opengraph/_cachebust/",
+    "localImage": "images/309f95435c249f6a8b34f54199c9f0482da077a9.jpg"
+  }, 
+
+  {
+    "url": "https://swapi.dev/documentation",
+    "title": "SWAPI - The Star Wars API",
+    "image": "http://i.imgur.com/l02u363.gif",
+    "localImage": "images/6534bc2dc6367ff686f2f0887f5d16bad3e450db.gif"
+  },
+  {
+    "url": "https://swapi.dev/api/planets/",
+    "title": "SWAPI - Planets List",
+    "localImage":"images/planetlist.png"
+  },
+  {
+    "url": "https://www.apollographql.com/docs/apollo-server/data/resolvers",
+    "title": "Resolvers - Apollo GraphQL Docs",
+    "description": "How Apollo Server processes GraphQL operations",
+    "image": "https://res.cloudinary.com/apollographql/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_1120,c_fit,co_rgb:CFD7D6,g_south_west,x_90,y_254,l_text:odyssey:fonts:AeonikBold.otf_80:Resolvers/w_1120,c_fit,co_rgb:B4C0BF,g_north_west,x_90,y_445,l_text:odyssey:fonts:InterRegular.ttf_48:How%20Apollo%20Server%20processes%20GraphQL%20operations/docs-thumbnail_z8ifvw",
+    "localImage": "images/513bf7e2d809c4c9e94e61e7b9455392382f0ead.png"
+  },
+  {
+    "url": "https://studio.apollographql.com/public/star-wars-swapi/variant/current/explorer",
+    "title": "Star Wars's Graph | GraphOS Studio",
+    "image": "https://media.apollographql.com/media/avatar/graph/c3Rhci13YXJzLXN3YXBp/Star_Wars_avatar_40px.png?id=4c2a62ea-7c3c-42fd-995d-20c47aa5d826",
+    "localImage": "images/33bad1940c06b9397b5836a21db89d1fc48171a2.png"
+  },
+  {
+    "url": "https://github.com/graphql-kit/graphql-apis",
+    "title": "GitHub - graphql-kit/graphql-apis: 📜 A collective list of public GraphQL APIs",
+    "description": "📜 A collective list of public GraphQL APIs. Contribute to graphql-kit/graphql-apis development by creating an account on GitHub.",
+    "image": "https://opengraph.githubassets.com/137b3f86edf9be9ae218fad3a8f8758132eb47d62cb16e7072f8271f44a30e28/graphql-kit/graphql-apis",
+    "localImage": "images/3dc7cdcc9118a5af0c39395c8dafe5ae355423e2.png"
+  },
+  {
+    "url": "https://thenable.io/swapi-graphql",
+    "title": "Let's Wrap the Star Wars API In GraphQL | Thenable",
+    "image": "https://thenable.io/images/logo.svg",
+    "localImage": ""
+  },
+  {
+    "url": "https://curl.se/",
+    "title": "curl",
+    "description": "curl: a command line tool and library for transferring data with URLs (since 1998)",
+    "image": "https://curl.se/logo/curl-logo.svg",
+    "localImage": "images/ea7b093ddb8d92ee657f30e0cd4d823bb48bb25e.svg"
+  },
+  {
+    "url": "https://httpie.io/",
+    "title": "HTTPie – API testing client that flows with you",
+    "description": "Making APIs simple and intuitive for those building the tools of our time.",
+    "image": "https://httpie.io/Images/Share/default.png",
+    "localImage": "images/868ac41748644d224f689cab20d9703e7fe35b3b.png"
+  },
+  {
+    "url": "https://jqlang.github.io/jq/",
+    "title": "jq - CLI JSON processor",
+    "localImage":"images/jq.svg",
+    "description":"jq is a lightweight and flexible command-line JSON processor."
+  },
+  {
+    "url": "https://www.postman.com/home",
+    "title": "Postman API Platform",
+    "description": "Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.",
+    "localImage":"images/postman.svg"
+  },
+  {
+    "url": "https://www.usebruno.com/",
+    "title": "Bruno - an Opensource API client",
+    "image": "https://www.usebruno.com/images/landing-2.png",
+    "description":"Bruno is a Fast and Git-Friendly Opensource API client, aimed at revolutionizing the status quo represented by Postman, Insomnia and similar tools out there.",
+    "localImage": "images/bruno.png"
+    
+  },
+  {
+    "url": "https://hoppscotch.io/",
+    "title": "Hoppscotch • Open source API development ecosystem",
+    "description": "Helps you create requests faster, saving precious time on development.",
+    "localImage":"images/hoppscotch.png"
+  },
+  {
+    "url": "https://insomnia.rest/",
+    "title": "The Collaborative API Development Platform - Insomnia",
+    "description": "Leading Open Source API Development Platform for HTTP, REST, GraphQL, gRPC, SOAP, and WebSockets",
+    "image": "/images/open-graph-insomnia.png",
+    "localImage": "images/insomnia.png"
+  },
+  {
+    "url": "https://www.openapis.org/",
+    "title": "OpenAPI Initiative",
+    "description":"The OpenAPI Specification provides a formal standard for describing HTTP APIs. This allows people to understand how an API works, generate client code, create tests, apply design standards, and much, much more.",
+    "image": "https://www.openapis.org/wp-content/uploads/sites/3/2018/02/OpenAPI_Logo_Pantone-1.png",
+    "localImage": "images/1497737d154b0bdeec63830420bc9a4e5090c723.png"
+  },
+  {
+    "url": "https://www.nps.gov/subjects/developer/customcf/swagger.json?03142019",
+    "title": "National Park Service API Swagger Documentation",
+    "image": "https://www.nps.gov/theme/assets/dist/images/branding/logo.png",
+    "localImage": "images/nps.png",
+    "description": "This API is designed to provide authoritative National Park Service (NPS) data and content about parks and their facilities, events, news, alerts, and more."
+  },
+  {
+    "url": "https://www.nps.gov/subjects/developer/api-documentation.htm",
+    "title": "API Documentation - Developer Resources (U.S. National Park Service)",
+    "description": "This API is designed to provide authoritative National Park Service (NPS) data and content about parks and their facilities, events, news, alerts, and more. Explore the NPS API below and even try to make API calls.",
+    "image": "https://www.nps.gov/theme/assets/dist/images/branding/logo.png",
+
+    "localImage": "images/nps.png"
+  },
+  {
+    "url": "https://api.swaggerhub.com/apis/NobelMedia/NobelMasterData/2.1",
+    "title": "Nobel Prize Data API",
+    "description":"Obtain information about all Nobel Prizes or search for a specific set of Nobel Prizes. Note that not all information about the Laureates are provided in the output, as a request of making this endpoints response lighter. Call the laureates endpoint for full information.",
+    "localImage":"images/nobelmedal.webp"
+  },
+  {
+    "url": "https://app.swaggerhub.com/apis/NobelMedia/NobelMasterData/2.1",
+    "title": "Build, Collaborate & Integrate APIs | SwaggerHub",
+    "description": "Join thousands of developers who use SwaggerHub to build and design great APIs. Signup or login today.",
+    "localImage":"images/nobelmedal.webp"
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while",
+    "title": "do...while - JavaScript | MDN",
+    "description": "The do...while statement creates a loop that executes a specified statement until the test condition evaluates to false. The condition is evaluated after executing the statement, resulting in the specified statement executing at least once.",
+    "image": "https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png",
+    "localImage": "images/7b96b904f10841e580d43a24b3872bc100d0b61f.png"
+  }
+
+  
+]
