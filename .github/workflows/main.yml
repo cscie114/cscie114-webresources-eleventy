@@ -1,0 +1,29 @@
+name: Build and Publish
+on: [push]
+jobs:
+  build-eleventy:
+    runs-on: ubuntu-latest
+    steps:    
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - run: echo "The ${{ github.repository }} repository has been cloned to the runner."
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
+      - name: install
+        run: npm install
+      - name: build
+        run: npm run build
+  publish-to-dreamhost:
+    runs-on: ubuntu-latest
+    needs: build-eleventy
+    steps:
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_PRIVATE_KEY_DREAMHOST }} 
+          known_hosts: 'just-a-placeholder-so-we-dont-get-errors'
+      - name: Add to known_hosts
+        run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+      - name: Deploy with rsync
+        run: rsync -avz --delete --exclude .git --exclude .github --exclude .gitignore --exclude 'README.md' ${{ github.workspace }}/dist ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:./resources.cs114.net

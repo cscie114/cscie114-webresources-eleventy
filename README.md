@@ -1,6 +1,6 @@
-# eleventy simple starting point
+# CSCI E-114 Jamstack Resources
 
-A simple starting point for an eleventy site 
+URLs we think are useful for your learning and work in the class!
 
 ## Running
 ```
