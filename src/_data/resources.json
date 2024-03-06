@@ -388,8 +388,7 @@
   {
     "url": "https://thenable.io/swapi-graphql",
     "title": "Let's Wrap the Star Wars API In GraphQL | Thenable",
-    "image": "https://thenable.io/images/logo.svg",
-    "localImage": ""
+    "image": "https://thenable.io/images/logo.svg"
   },
   {
     "url": "https://curl.se/",
@@ -478,6 +477,75 @@
     "description": "The do...while statement creates a loop that executes a specified statement until the test condition evaluates to false. The condition is evaluated after executing the statement, resulting in the specified statement executing at least once.",
     "image": "https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png",
     "localImage": "images/7b96b904f10841e580d43a24b3872bc100d0b61f.png"
+  },
+  {
+    "url": "https://www.11ty.dev/docs/plugins/image/",
+    "title": "Image — Eleventy",
+    "description": "Image — Eleventy",
+    "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.11ty.dev%2Fdocs%2Fplugins%2Fimage%2F/opengraph/_cachebust/",
+    "localImage": "images/eff0159b585631ded0269dbac24eada720acffb6.jpg"
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images",
+    "title": "Responsive images - Learn web development | MDN",
+    "description": "That's a wrap for responsive images — we hope you enjoyed playing with these new techniques. As a recap, there are two distinct problems we've been discussing here:",
+    "image": "https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png",
+    "localImage": "images/7b96b904f10841e580d43a24b3872bc100d0b61f.png"
+  },
+  {
+    "url": "https://dzone.com/articles/why-and-when-to-use-graphql-1",
+    "title": "Why and When to Use GraphQL - DZone",
+    "description": "This article makes the case for the use of Facebook-designed query language GraphQL and discusses its benefits as well as tis best use cases.",
+    "image": "https://dz2cdn1.dzone.com/storage/article-thumb/12700841-thumb.jpg",
+    "localImage": "images/43a3f08946c133d35473d8e66e0faac793c06891.unknown"
+  },
+  {
+    "url": "https://www.apollographql.com/blog/why-use-graphql",
+    "title": "Why use GraphQL? | Apollo GraphQL Blog",
+    "description": "Unlock microservices potential with Apollo GraphQL. Seamlessly integrate APIs, manage data, and enhance performance. Explore Apollo's innovative solutions.",
+    "image": "https://wp.apollographql.com/wp-content/uploads/2020/11/39-1.png",
+    "localImage": "images/7f70e92c49055603f7d69d36cd62bb80329e5345.png"
+  },
+  {
+    "url": "https://www.mobilelive.ca/blog/graphql-vs-rest-what-you-didnt-know",
+    "title": "GraphQL Vs REST API: A Comparison of Performance and Advantages",
+    "description": "Is GraphQL better than REST? What is the biggest difference between GraphQL vs REST API? Learn everything you need to know.",
+    "image": "https://www.mobilelive.ca/wp-content/uploads/2020/11/graph-qp-vs-rest-repost-1.jpg",
+    "localImage": "images/ce40d8e45993c79a05f3bfaeeb13d42044dcaccf.jpg"
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push",
+    "title": "Array.prototype.push() - JavaScript | MDN",
+    "description": "The push() method of Array instances adds the specified elements to the end of\n  an array and returns the new length of the array.",
+    "image": "https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png",
+    "localImage": "images/7b96b904f10841e580d43a24b3872bc100d0b61f.png"
+  },
+
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat",
+    "title": "Array.prototype.concat() - JavaScript | MDN",
+    "description": "The concat() method of Array instances is used to merge two or more arrays.\n  This method does not change the existing arrays, but instead returns a new array.",
+    "image": "https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png",
+    "localImage": "images/7b96b904f10841e580d43a24b3872bc100d0b61f.png"
+  },
+  {
+    "url": "https://www.11ty.dev/docs/data-custom/",
+    "title": "Custom Data File Formats — Eleventy",
+    "description": "Custom Data File Formats — Eleventy",
+    "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.11ty.dev%2Fdocs%2Fdata-custom%2F/opengraph/_cachebust/",
+    "localImage": "images/c9e1df72821cdd4547a87f91209792e77b72e684.jpg"
+  },
+  {
+    "url": "https://www.maxkohler.com/posts/eleventy-csv/",
+    "title": "How to use CSV data with Eleventy – Max Kohler \n\t",
+    "description": ""
+  },
+  {
+    "url": "https://www.npmjs.com/package/google-spreadsheet",
+    "title": "google-spreadsheet - npm",
+    "description": "Google Sheets API -- simple interface to read/write data and manage sheets. Latest version: 4.1.1, last published: 4 months ago. Start using google-spreadsheet in your project by running `npm i google-spreadsheet`. There are 395 other projects in the npm registry using google-spreadsheet.",
+    "image": "https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+    "localImage": "images/ff98e89bc12f4336344bcb82ca2f0b80b9032071.png"
   }
 
   
