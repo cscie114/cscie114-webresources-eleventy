@@ -536,17 +536,270 @@
     "localImage": "images/c9e1df72821cdd4547a87f91209792e77b72e684.jpg"
   },
   {
-    "url": "https://www.maxkohler.com/posts/eleventy-csv/",
-    "title": "How to use CSV data with Eleventy – Max Kohler \n\t",
-    "description": ""
-  },
-  {
     "url": "https://www.npmjs.com/package/google-spreadsheet",
     "title": "google-spreadsheet - npm",
     "description": "Google Sheets API -- simple interface to read/write data and manage sheets. Latest version: 4.1.1, last published: 4 months ago. Start using google-spreadsheet in your project by running `npm i google-spreadsheet`. There are 395 other projects in the npm registry using google-spreadsheet.",
     "image": "https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
     "localImage": "images/ff98e89bc12f4336344bcb82ca2f0b80b9032071.png"
+  },
+  {
+    "url": "https://www.cockroachlabs.com/",
+    "title": "\n    \n      Cockroach Labs, the company building CockroachDB\n  \n  ",
+    "description": "CockroachDB is a distributed database with standard SQL for cloud applications. CockroachDB powers companies like Comcast, Lush, and Bose.",
+    "image": "https://www.cockroachlabs.com/img/crl-socialpost-default-2020-2.jpg?auto=format,compress",
+    "localImage": "images/bdac60f23282e1cf63a6da116bfdec214b7ea476.jpg"
+  },
+  {
+    "url": "https://supabase.com/",
+    "title": "Supabase | The Open Source Firebase Alternative",
+    "description": "Build production-grade applications with a Postgres database, Authentication, instant APIs, Realtime, Functions, Storage and Vector embeddings. Start for free.",
+    "image": "https://supabase.com/images/og/og-image-v2.jpg",
+    "localImage": "images/2eb3d37f61544de470e6f6c90be881c8dbb1609f.jpg"
+  },
+  {
+    "url": "https://planetscale.com/",
+    "title": "The ultimate MySQL database platform — PlanetScale",
+    "description": "PlanetScale is the world’s most advanced, fully-managed MySQL database platform. Scale, performance, and reliability, powered by Vitess.",
+    "image": "https://planetscale.com/assets/social/homepage-2024-social.jpg",
+    "localImage": "images/237cee6f11ac6126bd1e2913940848f9a4e16a02.jpg"
+  },
+  {
+    "url": "https://neo4j.com/cloud/platform/aura-graph-database/",
+    "title": "Fully Managed Graph Database Service | Neo4j AuraDB",
+    "description": "Discover Neo4j AuraDB, our graph database for the cloud.",
+    "image": "https://dist.neo4j.com/wp-content/uploads/20220408160221/social_sharing_auradb.png",
+    "localImage": "images/b4381bd5d442dac7227a134d5a3e0b8aab7bdda9.png"
+  },
+  {
+    "url": "https://firebase.google.com/docs/firestore",
+    "title": "Firestore  |  Firebase",
+    "description": "Use our flexible, scalable NoSQL cloud database, built on Google Cloud infrastructure, to store and sync data for client- and server-side development.",
+    "image": "https://www.gstatic.com/devrel-devsite/prod/v3c0543fd6f8d5c1b2f007d4210dd17d0997f2b977af4457cdf21a3898c7e4caf/firebase/images/lockup.svg",
+    "localImage": "images/5b6b12453a753a0fe9db423f1f879744697a0de1.svg"
+  },
+  {
+    "url": "https://fauna.com/",
+    "title": "Fauna | The distributed serverless database",
+    "description": "Fauna is a fast, reliable, consistent document-relational database that spans regions or the globe, with a TypeScript-inspired developer experience on data stored in documents.",
+    "image": "https://images.ctfassets.net/po4qc9xpmpuh/1uiv5gXGspEI9x37qNb6Y0/5c48844dce8f2510f7bf4e90cc1dad2b/twitter_card_02__1_.png",
+    "localImage": "images/f606bb4ef38df08a75c4be4d7ab863de879a7c52.png"
+  },
+  {
+    "url": "https://www.mongodb.com/",
+    "title": "MongoDB: The Developer Data Platform | MongoDB",
+    "description": "Get your ideas to market faster with a developer data platform built on the leading modern database. MongoDB makes working with data easy.",
+    "image": "http://s3.amazonaws.com/info-mongodb-com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png",
+    "localImage": "images/b61ec6496b0740f456311d4e650f4071d2515046.png"
+  },
+  {
+    "url": "https://www.11ty.dev/docs/data-custom/",
+    "title": "Custom Data File Formats — Eleventy",
+    "description": "Custom Data File Formats — Eleventy",
+    "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.11ty.dev%2Fdocs%2Fdata-custom%2F/opengraph/_cachebust/",
+    "localImage": "images/c9e1df72821cdd4547a87f91209792e77b72e684.jpg"
+  },
+  {
+    "url": "https://www.maxkohler.com/posts/eleventy-csv/",
+    "title": "How to use CSV data with Eleventy – Max Kohler",
+    "description": ""
+  },
+  {
+    "url": "https://www.npmjs.com/package/google-spreadsheet",
+    "title": "google-spreadsheet - npm",
+    "description": "Google Sheets API -- simple interface to read/write data and manage sheets. Latest version: 4.1.1, last published: 5 months ago. Start using google-spreadsheet in your project by running `npm i google-spreadsheet`. There are 398 other projects in the npm registry using google-spreadsheet.",
+    "image": "https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+    "localImage": "images/ff98e89bc12f4336344bcb82ca2f0b80b9032071.png"
+  },
+  {
+    "url": "https://hasura.io/",
+    "title": "Instant GraphQL APIs on your data | Built-in Authz & Caching",
+    "description": "Hasura gives you instant GraphQL and REST APIs on new and existing data sources. Connect Hasura to your data & get APIs in under a minute.",
+    "image": "https://res.cloudinary.com/dh8fp23nd/image/upload/v1687208638/v3-website/homepage_jra0zf.jpg",
+    "localImage": "images/f56cda756ca31ca3d078a7b6de8fe13345c59286.jpg"
+  },
+  {
+    "url": "https://react.dev/",
+    "title": "React",
+    "description": "React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript. React is designed to let you seamlessly combine components written by independent people, teams, and organizations.",
+    "image": "https://react.dev/images/og-home.png",
+    "localImage": "images/f6902d578a22995165ab090089a37c96d08351e0.png"
+  },
+  {
+    "url": "https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/",
+    "title": "State of JavaScript 2022: Front-end Frameworks",
+    "description": "The 2022 edition of the annual survey about the latest trends in the JavaScript ecosystem.",
+    "image": "https://devographics.github.io/surveys/state_of_js/js2022/images/js2022-og.png",
+    "localImage": "images/1236786a0ae9cadb30317bcc75b3cbeadf571fe0.png"
+  },
+  {
+    "url": "https://stackblitz.com/edit/js-upd5va?file=index.js",
+    "title": "Imperative Example- jQuery - StackBlitz",
+    "description": "Blank starter project for building ES6 apps.",
+    "image": "https://social-img.staticblitz.com/projects/js-upd5va/7b8f6345705a3e97595b215a64a3bae4",
+    "localImage": "images/a991d53ea102f238f1ef8b8e70e01de00704626b.png"
+  },
+  {
+    "url": "https://stackblitz.com/edit/react-eixwuk?file=src%2FApp.js,src%2Fstyle.css,src%2Findex.js",
+    "title": "Declarative example - React - StackBlitz",
+    "description": "A create-react-app project based on react and react-dom.",
+    "image": "https://social-img.staticblitz.com/projects/react-eixwuk/67da7305e20459987b680e6c06d35410",
+    "localImage": "images/b693d4f4450691e2dd24d075da443b24a5dbafc6.png"
+  },
+  {
+    "url": "https://styled-components.com/",
+    "title": "styled-components",
+    "description": "CSS for the <Component> Age",
+    "image": "https://www.styled-components.com/atom.png",
+    "localImage": "images/26b9376883f7585d7711116e7ac9e432942bcb79.png"
+  },
+  {
+    "url": "https://github.com/css-modules/css-modules",
+    "title": "GitHub - css-modules/css-modules: Documentation about css-modules",
+    "description": "Documentation about css-modules. Contribute to css-modules/css-modules development by creating an account on GitHub.",
+    "image": "https://opengraph.githubassets.com/4dc0c3bb4a9196c497beba2415bdbacde40008c75e990d2de3455bb55bcb62dd/css-modules/css-modules",
+    "localImage": "images/34bc6ee28507221982983daf9280cd58daa93621.png"
+  },
+  {
+    "url": "https://react.dev/reference/react",
+    "title": "React Reference Overview – React",
+    "image": "https://react.dev/images/og-reference.png",
+    "localImage": "images/85fd7496d61cb0a94e71cc73f0b7b9384777474c.png",
+    "description": "This section provides detailed reference documentation for working with React."
+  },
+  {
+    "url": "https://react.dev/reference/react/useState",
+    "title": "useState – React",
+    "image": "https://react.dev/images/og-reference.png",
+    "localImage": "images/85fd7496d61cb0a94e71cc73f0b7b9384777474c.png",
+    "description":"useState is a React Hook that lets you add a state variable to your component."
+  },
+  {
+    "url": "https://react.dev/reference/react/useContext",
+    "title": "useContext – React",
+    "image": "https://react.dev/images/og-reference.png",
+    "localImage": "images/85fd7496d61cb0a94e71cc73f0b7b9384777474c.png",
+    "description": "useContext is a React Hook that lets you read and subscribe to context from your component."
+  },
+  {
+    "url": "https://react.dev/reference/react/useEffect",
+    "title": "useEffect – React",
+    "image": "https://react.dev/images/og-reference.png",
+    "localImage": "images/85fd7496d61cb0a94e71cc73f0b7b9384777474c.png",
+    "description": "useEffect is a React Hook that lets you synchronize a component with an external system."
+  },
+  {
+    "url": "https://wavez.github.io/react-hooks-lifecycle/",
+    "title": "React hooks lifecycle diagram",
+    "description": "React lifecycle Hooks diagram, Functional Components visualized",
+    "image":"https://raw.githubusercontent.com/Wavez/react-hooks-lifecycle/e0d2d19142e74c9506f11aa55028f50b15a177d9/screenshot.jpg",
+    "localImage": "images/a18978ce96e7987991bbd5f6bc2fba25.jpg"
+  },
+  {
+    "url": "https://www.npmjs.com/package/react-devtools",
+    "title": "react-devtools - npm",
+    "description": "Use react-devtools outside of the browser. Latest version: 5.0.2, last published: 17 days ago. Start using react-devtools in your project by running `npm i react-devtools`. There are 33 other projects in the npm registry using react-devtools.",
+    "image": "https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+    "localImage": "images/ff98e89bc12f4336344bcb82ca2f0b80b9032071.png"
+  },
+  {
+    "url": "https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en&pli=1",
+    "title": "Chrome - React Developer Tools",
+    "description" : "React Developer Tools is a Chrome DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies in the Chrome Developer Tools.",
+    "image": "https://lh3.googleusercontent.com/TNijZW_Gp9MZ3eqXkve0YWDEiHV-a2IpSpD6IJzrV3Y76GJcLEyzX2regTLemXzBHbHVqkKuxnnWDT34Cp4sNh-Y=s128-rj-sc0x00ffffff",
+    "localImage": "images/b4f1d7bd8123e01ec9c8d169c9f04adece336a85.jpg"
+  },
+  {
+    "url": "https://addons.mozilla.org/en-US/firefox/addon/react-devtools/",
+    "title": "React Developer Tools – Get this Extension for 🦊 Firefox (en-US)",
+    "description": "Download React Developer Tools for Firefox. React Developer Tools is a tool that allows you to inspect a React tree, including the component hierarchy, props, state, and more. To get started, just open the Firefox devtools and switch to the \"⚛️ Components\" or \"⚛️ Profiler\" tab.",
+    "image": "https://addons.mozilla.org/user-media/previews/full/223/223659.png?modified=1622132412",
+    "localImage": "images/6c245d472345e19250ba1568a8431aa11d9510ac.png"
+  },
+  {
+    "url": "https://microsoftedge.microsoft.com/addons/detail/react-developer-tools/gpphkfbcpidddadnkolkpfckpihlkkil",
+    "title": "React Developer Tools - Microsoft Edge Addons",
+    "description": "Make Microsoft Edge your own with extensions that help you personalize the browser and be more productive.",
+    "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31",
+    "localImage": "images/2ff0b08788ed6375606b14659254ad6941dae1d9.png"
+  },
+  {
+    "url": "https://storybook.js.org/",
+    "title": "Storybook: Frontend workshop for UI development",
+    "description": "Storybook is a frontend workshop for building UI components and pages in isolation. Thousands of teams use it for UI development, testing, and documentation. It’s open source and free.",
+    "image": "https://storybook.js.org/images/social/og-home.jpg",
+    "localImage": "images/a53436596fa9e3f175adf5dda6488a2fc7601500.jpg"
+  },
+  {
+    "url": "https://create-react-app.dev/",
+    "title": "Create React App",
+    "description": "Set up a modern web app by running one command.",
+    "image": "https://create-react-app.dev/img/logo-og.png",
+    "localImage": "images/592864c022516cacbfd2edfb4ab1c01b97747e87.png"
+  },
+  {
+    "url": "https://vitejs.dev/",
+    "title": "Vite | Next Generation Frontend Tooling",
+    "description": "Next Generation Frontend Tooling",
+    "image": "https://vitejs.dev/og-image.png",
+    "localImage": "images/26031c8978454eb35fc8b480f41fed71405637dd.png"
+  },
+  {
+    "url": "https://www.gatsbyjs.com/",
+    "title": "The Best React-Based Framework | Gatsby",
+    "description": "Gatsby is a React-based open source framework with performance, scalability and security built-in. Collaborate, build and deploy 1000x faster on Netlify.",
+    "image": "https://images.ctfassets.net/vkdbses00qqt/38yAjXH9hRko9noPZWrluI/4d1988b4b07acfab9ce93a87407930bd/Frame_3__2_.png",
+    "localImage": "images/3cd9b4fb79a36f6d62c940fd788774a5dec01092.png"
+  },
+  {
+    "url": "https://nextjs.org/",
+    "title": "Next.js by Vercel - The React Framework",
+    "description": "Next.js by Vercel is the full-stack React framework for the web.",
+    "image": "https://assets.vercel.com/image/upload/front/nextjs/twitter-card.png",
+    "localImage": "images/c6f13d27ae90a50e66f49cd463a7132ed58bc432.png"
+  },
+  {
+    "url": "https://react-bootstrap.github.io/",
+    "title": "React Bootstrap | React Bootstrap",
+    "description": "The most popular front-end framework, rebuilt for React",
+    "image": "https://react-bootstrap.github.io/img/logo.svg",
+    "localImage": "images/960c18f52f64c5ff2754d9baca9c8b3b.svg"
+  },
+  {
+    "url": "https://mui.com/",
+    "title": "MUI: The React component library you always wanted",
+    "description": "MUI provides a simple, customizable, and accessible library of React components. Follow your own design system, or start with Material Design.",
+    "image": "https://mui.com/static/social-previews/home-preview.jpg",
+    "localImage": "images/de82b44c7953f4447d4b0df0f047e58d737152fd.jpg"
+  },
+  {
+    "url": "https://blueprintjs.com/",
+    "title": "Blueprint – A React-based UI toolkit for the web",
+    "description": "A React-based UI toolkit for the web",
+    "image": "http://blueprintjs.com/assets/fb-image.png",
+    "localImage": "images/0ab1551a47c13fd39e6a330dca173648583692a8.png"
+  },
+  {
+    "url": "https://chakra-ui.com/",
+    "title": "Chakra UI - A simple, modular and accessible component library that gives you the building blocks you need to build your React applications. - Chakra UI",
+    "description": "Simple, Modular and Accessible UI Components for your React Applications. Built with Styled System",
+    "image": "https://chakra-ui.com/og-image.png",
+    "localImage": "images/80f7542816ba365feaf76adae32535b02506c01f.png"
+  },
+  {
+    "url": "https://react.dev/reference/react-dom/server",
+    "title": "Server React DOM APIs – React",
+    "image": "https://react.dev/images/og-reference.png",
+    "localImage": "images/85fd7496d61cb0a94e71cc73f0b7b9384777474c.png",
+    "description": "The react-dom/server APIs let you render React components to HTML on the server. These APIs are only used on the server at the top level of your app to generate the initial HTML. A framework may call them for you. Most of your components don’t need to import or use them."
+  },
+  {
+    "url": "https://react.dev/reference/react-dom/client/hydrateRoot",
+    "title": "hydrateRoot – React",
+    "description": "hydrateRoot lets you display React components inside a browser DOM node whose HTML content was previously generated by react-dom/server.",
+    "image": "https://react.dev/images/og-reference.png",
+    "localImage": "images/85fd7496d61cb0a94e71cc73f0b7b9384777474c.png"
   }
+
 
   
 ]
